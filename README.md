@@ -160,6 +160,7 @@ from data preprocessing to real-world deployment.
 <footer>
     <p><strong>Project By:</strong> Architha Sagi</p>
     <p>Last Updated: 10-02-2026</p>
+    <p><b>Support Contact:</b> sagiarchithrao@gmail.com</p>
 </footer>
 
 </div>
