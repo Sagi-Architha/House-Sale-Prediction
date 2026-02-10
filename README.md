@@ -2,64 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>House Price Prediction Project</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            background-color: #f5f7fa;
-            margin: 0;
-            padding: 0;
-            color: #333;
-            line-height: 1.6;
-        }
-        .container {
-            max-width: 1000px;
-            margin: auto;
-            background: #ffffff;
-            padding: 30px;
-        }
-        h1 {
-            color: #2c3e50;
-            border-bottom: 4px solid #3498db;
-            padding-bottom: 10px;
-        }
-        h2 {
-            color: #2c3e50;
-            border-left: 5px solid #3498db;
-            padding-left: 10px;
-            margin-top: 40px;
-        }
-        h3 {
-            color: #34495e;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        code, pre {
-            background: #eef2f5;
-            padding: 10px;
-            border-radius: 6px;
-            display: block;
-            overflow-x: auto;
-        }
-        .badge {
-            display: inline-block;
-            background: #3498db;
-            color: #fff;
-            padding: 6px 12px;
-            border-radius: 5px;
-            font-size: 13px;
-            margin-right: 5px;
-        }
-        footer {
-            text-align: center;
-            margin-top: 50px;
-            font-size: 14px;
-            color: #777;
-        }
-    </style>
+    
 </head>
 <body>
 
